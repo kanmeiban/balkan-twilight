@@ -1,10 +1,16 @@
 {
   "name": "balkan-twilight-theme",
-  "displayName": "Balkan Twilight Theme",
-  "description": "Based on TextMate Twilight theme with syntax highlight improvements",
   "version": "0.0.1",
+  "publisher": "kanmeiban",
   "engines": {
     "vscode": "^1.86.0"
+  },
+  "license": "MIT",
+  "displayName": "Balkan Twilight Theme",
+  "description": "Based on TextMate Twilight theme with syntax highlight improvements",
+  "repository": {
+   "type": "git",
+   "url":"https://github.com/kanmeiban/balkan-twilight/"
   },
   "categories": [
     "Themes"
